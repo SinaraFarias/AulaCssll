@@ -1,0 +1,52 @@
+body{
+    background-image: url(https://www.receitasnestle.com.br/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/4bff27923114774598f24cf75a23ca7f.webp?itok=re_8YBUt);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+header{
+    background-color: rgba(64, 120, 5, 0.658);
+}
+.d1{
+    background-color:rgba(247, 222, 198, 0.694);
+    text-align: center;
+    list-style:inside;
+}
+p{
+    font-family: monospace;
+    font-style: italic;
+    color:  black;
+    text-align: center;   
+}
+h1{
+font-family: 'Courier New', Courier, monospace;
+color: beige;
+text-align: center;
+}
+h2{
+    background-color: rgba(64, 120, 5, 0.658);
+    font-family: monospace;
+    color: beige;
+    text-align: center;
+}
+.l1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 91, 14);
+}
+.l2{
+    font-family: Arial, Helvetica, sans-serif;
+color: rgb(4, 91, 14);
+text-decoration:line-through;
+}
+.l3{
+    font-family: Arial, Helvetica, sans-serif;
+    color:  blue;
+}
+.p1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(4, 91, 14);
+}
+.p2{
+    font-family: Arial, Helvetica, sans-serif;
+    color:  blue;   
+}
